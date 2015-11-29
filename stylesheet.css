@@ -3,44 +3,34 @@ h1 {
 	font-family: Arial;
     color: black;
 }
+img{
+	float: right;
+}
 p{
 	font-size: 20px;
 	font-family: Arial;
-}
-table, td{
-	font-size: 35px;
-	font-family: Arial;
-
+	padding-bottom: 60px;
+	float: left;
 }
 ul {
 	font-size: 20px;
 	font-family: Arial;
 	padding-bottom: 60px;
 }
-
 div {
-	border-radius: 1px;
-	border: 1px solid #6495ED;
+	font-size: 20px;
+	font-family: Arial;
+	border-radius: 0%;
+	border: 5px solid black;
 	background-color: #BCD2EE;
     height: 37px;
+    display:inline-block;
+    padding: 50px;
 }
-
 h2{
 	font-size: 50px;
 	font-family: Impact;
 }
-span {
-	font-size: 15px;
-}
-p {
-	padding-bottom: 60px;
-}
 h4 {
 	font-size: 30px;
-}
-body {
-	background-image: url("http://www.knick-knack.com/big_images/elbert_2001_panoramic_02.jpg");
-	background-repeat: no-repeat;
-	background-size: 100%;
-
 }
