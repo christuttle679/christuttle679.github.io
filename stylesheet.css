@@ -28,6 +28,7 @@ div {
 h2{
 	font-size: 50px;
 	font-family: Impact;
+	margin-bottom: 5px
 }
 h4 {
 	font-size: 20px;
@@ -37,9 +38,8 @@ h4 {
 	font-size: 20px;
 	font-family: Arial;
 	border: none;
-	text-align: left;
 	padding: 0px;
-
+	
 }
 td {
 	 vertical-align: text-top;
