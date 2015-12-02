@@ -9,22 +9,20 @@ img{
 p{
 	font-size: 20px;
 	font-family: Arial;
-	padding-bottom: 60px;
+	padding-bottom: 40px;
 	float: left;
 }
 ul {
 	font-size: 20px;
 	font-family: Arial;
-	padding-bottom: 60px;
+	padding-bottom: 40px;
 }
 div {
 	font-size: 20px;
 	font-family: Arial;
-	border-radius: 0%;
-	border: 5px solid black;
+	border: none;
 	background-color: #BCD2EE;
     height: 37px;
-    display:inline-block;
     padding: 50px;
 }
 h2{
@@ -32,5 +30,17 @@ h2{
 	font-family: Impact;
 }
 h4 {
-	font-size: 30px;
+	font-size: 20px;
+	
+}
+#address{
+	font-size: 20px;
+	font-family: Arial;
+	border: none;
+	text-align: left;
+	padding: 0px;
+
+}
+td {
+	 vertical-align: text-top;
 }
