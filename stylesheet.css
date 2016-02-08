@@ -1,46 +1,76 @@
-h1 {
+html{
+	background: url(backgroundimage.jpg) no-repeat center center fixed;
+	background-size: cover;
+	background-color: lightblue;
+}   
+
+h1{
+	font-size: 50px;
+	font-family: Impact;
+	margin-bottom: 5px;    
+}
+h2{
 	font-size: 30px;
 	font-family: Arial;
-    color: black;
 }
-img{
-	float: right;
+h3 {
+	font-size: 20px;
+	
 }
+
 p{
 	font-size: 20px;
 	font-family: Arial;
-	padding-bottom: 40px;
-	float: left;
+	
+	
 }
 ul {
 	font-size: 20px;
 	font-family: Arial;
 	padding-bottom: 40px;
+
 }
-div {
+header{
+	margin-left: 85px;
+}
+
+.section{
+	border-bottom: 1px solid gray;
+	width: 600px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}    
+.picture{
+	float: right;
+	margin-right: 100px;
+
+}    
+
+.address{
 	font-size: 20px;
 	font-family: Arial;
-	border: none;
-	background-color: #BCD2EE;
-    height: 37px;
-    padding: 50px;
-}
-h2{
-	font-size: 50px;
-	font-family: Impact;
-	margin-bottom: 5px
-}
-h4 {
-	font-size: 20px;
-	
-}
-#address{
-	font-size: 20px;
-	font-family: Arial;
-	border: none;
 	padding: 0px;
+	margin-bottom: 150px;
+	margin-left: 50px;
 	
 }
-td {
-	 vertical-align: text-top;
+.address ul{
+	list-style-type: none;
+}
+.table{
+	margin-left: auto;
+}
+.experience{
+	text-align: center;
+}
+.business{
+	float: left;
+	margin-left: 400px;
+}
+.wendy{
+	display: inline;
+	float: right;
+	margin-top: 0px;
+	margin-right: 400px;
 }
