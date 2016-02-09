@@ -1,5 +1,5 @@
 html{
-	background: url(backgroundimage.jpg) no-repeat center center fixed;
+	background: url(Images/backgroundimage.jpg) no-repeat center center fixed;
 	background-size: cover;
 	background-color: lightblue;
 }   
@@ -7,7 +7,8 @@ html{
 h1{
 	font-size: 50px;
 	font-family: Impact;
-	margin-bottom: 5px;    
+	margin-bottom: 5px; 
+	  
 }
 h2{
 	font-size: 30px;
@@ -31,7 +32,12 @@ ul {
 
 }
 header{
-	margin-left: 85px;
+	margin-left: 80px;
+
+	text-shadow: 5px 2px 2px lightblue;
+}
+.main{
+	background: url(Image/brushedmetal103.jpg);
 }
 
 .section{
@@ -46,6 +52,11 @@ header{
 	margin-right: 100px;
 
 }    
+.sidebar{
+	float: left;
+	width: 100px;
+	height: 100px;
+}
 
 .address{
 	font-size: 20px;
