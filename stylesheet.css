@@ -33,7 +33,6 @@ ul {
 }
 header{
 	margin-left: 80px;
-
 	text-shadow: 5px 2px 2px lightblue;
 }
 .main{
@@ -77,11 +76,11 @@ header{
 }
 .business{
 	float: left;
-	margin-left: 400px;
+	margin-left: 200px;
 }
 .wendy{
 	display: inline;
 	float: right;
 	margin-top: 0px;
-	margin-right: 400px;
+	margin-right: 200px;
 }
