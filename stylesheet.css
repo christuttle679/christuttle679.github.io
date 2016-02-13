@@ -35,6 +35,11 @@ header{
 	margin-left: 80px;
 	text-shadow: 5px 2px 2px lightblue;
 }
+img{
+	transform: rotate(25deg);
+
+
+}
 .main{
 	background: url(Image/brushedmetal103.jpg);
 }
@@ -77,10 +82,11 @@ header{
 .business{
 	float: left;
 	margin-left: 200px;
+	margin-top: 40px;
 }
 .wendy{
 	display: inline;
 	float: right;
-	margin-top: 0px;
+	margin-top: 40px;
 	margin-right: 200px;
 }
